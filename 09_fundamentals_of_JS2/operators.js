@@ -1,8 +1,8 @@
 /** Operators in JS */
 
 // 1. Assignment Operator(=)
-let a = 10;
-let b = a;
+// let a = 10;
+// let b = a;
 let c = (a = 20);
 
 // console.log(a);
@@ -30,3 +30,9 @@ let i = 2;
 i += 3;
 
 console.log(i);
+
+let a = 10;
+let b =3;
+c=(a%b);
+console.log(c);
+  
