@@ -3,7 +3,7 @@
 const goods = {
     apple: { price: 150, quantity: 2 },
     banana: { price: 75, quantity: 3 },
-    orange: { price: 125, quantity: 1 }
+    orange: { price: 125, quantity: 1 },
   };
   function calculatePrice(goods) {
     // Hint 1: Initialize a variable to store the total price, e.g., let totalPrice = 0;
