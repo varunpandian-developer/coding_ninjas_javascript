@@ -12,4 +12,4 @@ return{
 
 counter.increment();
 counter.increment();
-console.log(counter.getcount())
+console.log(counter.getcount());
